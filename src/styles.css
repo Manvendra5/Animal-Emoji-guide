@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=McLaren&display=swap");
+
+.App {
+  font-family: "McLaren", cursive;
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  cursor: pointer;
+}
+input {
+  padding: 1rem;
+  font-size: medium;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
